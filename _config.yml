@@ -17,10 +17,11 @@ defaults:
       permalink: date  # 这是指博客文章的网址格式
 
 # Build settings
+permalink: /:title.html
 markdown: kramdown
-theme: jekyll-theme-architect
+theme: minima
 exclude:
   - Gemfile
   - Gemfile.lock
 disqus:
-  shortname: my_disqus_shortname
+  shortname: ycj28cgithubio

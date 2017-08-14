@@ -1,2 +1,14 @@
+.bundle
 .sass-cache
+Gemfile.lock
 _site
+.sass-cache
+.vscode
+*.gem
+
+# _posts
+_posts/*
+!_posts/*.md
+
+# go-support
+go-support/wgo
