@@ -13,7 +13,7 @@ defaults:
       path: "posts" # 空字符串所有的文件。这里指posts文件夹
     values:
       layout: "default"
-      theme: minima
+      theme: Architect
       permalink: date  # 这是指博客文章的网址格式
 
 # Build settings
