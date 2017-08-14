@@ -25,7 +25,7 @@
   <ul class="arc-list">
   {% assign sorted_cat = site.categories | sort %}
   {% for category in sorted_cat %}
-      <li><a href="/categories/#{{ category | first }}">{{ category | first }} </a>({{ category | last | size }})</li>
+      <li><a href="{{ site.baseurl }}/categories/#{{ category | first }}">{{ category | first }} </a>({{ category | last | size }})</li>
   {% endfor %}  
   </ul>
 
