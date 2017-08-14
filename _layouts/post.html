@@ -12,7 +12,7 @@ layout: default
       {% endif %}
       {% if page.categories %}
         分类：{% for category in page.categories %}
-                <a href="{{ site.url }}/categories#{{ page.categories }}">{{ category | escape }}</a>; 
+                <a href="{{ site.baseurl }}/categories#{{ page.categories }}">{{ category | escape }}</a>; 
                 {% if category == "Go" %}
                   <script type="text/javascript" src="go-support/player/js/all.compressed.js"></script>
  +                <!--script type="text/javascript" src="go-support/wgo/wgo.min.js"></script-->
