@@ -19,8 +19,8 @@ defaults:
 # Build settings
 markdown: kramdown
 theme: minima
-disqus:
-  shortname: my_disqus_shortname
 exclude:
   - Gemfile
   - Gemfile.lock
+disqus:
+  shortname: my_disqus_shortname
