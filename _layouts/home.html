@@ -23,7 +23,7 @@ layout: default
           [更新: {{ post.update }}]
       {% endif %}
       分类: {% for category in post.categories %}
-        <a href="{{ site.url }}/categories#{{ category }}">{{ category | escape }}</a>; 
+        <a href="{{ site.baseurl }}/categories#{{ category }}">{{ category | escape }}</a>; 
       {% endfor %}
 		</p>
 		{% endif %}
