@@ -12,7 +12,7 @@ permalink: /tableofcontents/
   {% for post in site.posts %}
     <li>
       {{ post.date | date: '%Y-%m-%d'}}
-      <a href="{{ post.url }}" title="{{ post.excerpt | remove: '<p>' | remove: '</p>' }}">{{ post.title }}</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.excerpt | remove: '<p>' | remove: '</p>' }}">{{ post.title }}</a>
       {% if post.update %}
           [{{ post.update }}]
       {% endif %}
