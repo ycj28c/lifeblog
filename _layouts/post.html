@@ -36,7 +36,7 @@ layout: default
     {% for post in eachtag.last %}
         <li>
           {{ post.date | date: '%Y-%m-%d'}}
-          <a href="{{ post.url }}">{{ post.title }}</a>
+          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
           {% if post.url == page.url %} <<<< 当前 {% endif %}
         </li>
     {% endfor %}
