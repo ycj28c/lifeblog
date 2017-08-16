@@ -1,6 +1,6 @@
 ---
 layout: redirected
-title: 主頁
+title: 上級↑↑
 permalink: /super/
 redirect_to: https://ycj28c.github.io
 ---
