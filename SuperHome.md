@@ -1,5 +1,6 @@
 ---
 layout: page
 title: 主頁
-permalink: ../
+url: https://github.com/ycj28c
+external: true
 ---
