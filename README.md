@@ -1,3 +1,7 @@
+## Purpose
+
+This blog is to record the life moment, even trivia make sense when you write it down.
+
 ## Reference
 [wklchris 博客：无涯](https://github.com/wklchris/wklchris.github.io)
 
