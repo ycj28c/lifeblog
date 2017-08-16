@@ -4,6 +4,7 @@ This blog is to record the life moment, even trivia is meaningful when you write
 
 ## Reference
 [wklchris 博客：无涯](https://github.com/wklchris/wklchris.github.io)
+
 [How to redirect URLs on Jekyll site hosted on GitHub Pages](https://superdevresources.com/redirects-jekyll-github-pages/)
 
 ## Welcome to GitHub Pages
