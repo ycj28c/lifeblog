@@ -5,7 +5,7 @@ category: Jekyll
 tag: create-blog
 ---
 
-参考了
+参考并拷贝
 https://github.com/wklchris/wklchris.github.io
 
 搭建了此博，主要用于记录游山玩水，吃喝玩乐的
