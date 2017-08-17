@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 周末口粮
+title: 素食小吃
 category: 舌尖食记
 tag: create-blog
 ---
