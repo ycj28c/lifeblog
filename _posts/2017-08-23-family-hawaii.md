@@ -7,6 +7,8 @@ tag: create-blog
 
 2017-8-23，为了庆祝爸爸的70大寿聚在一起，开始了全家的夏威夷之旅。一家人，却是来自三个国家，连春节都难以聚在一起，相约实属不易。此行2周14天，8人含3娃，若是加上肚里的baby，理论上共10口人，浩浩荡荡大包小包来到了这个热情欢乐的魅力之岛。
 
+![Rainbow](https://raw.githubusercontent.com/ycj28c/lifeblog/master/images/201708240000/IMG_0088.jpg)
+
 团队特点
 -----------
 1)旅行时间长，一共14天的，对于夏威夷来说是挺长的，网上大多游记都在一周之内，大多人是希望在尽可能短的时间游览更多的岛，而我们相反，根据团队情况，我们将只去两个岛，选择了欧胡茂宜两岛。如何妥善的安排行程，轻松愉快并且能感受夏威夷风情是个重要的内容。
@@ -54,5 +56,27 @@ Tips
 1. 这里来到日本了吗，15%的日本人，果然全体日本店，不知正宗否，不过晚上是个饭店就需要排队。天天都经过的那个著名的自助拉面，但每次都是看着4排队伍叹而走之。
 2. 檀香山停车老大难，大车的话车库不好停，碰到酒店Valor Park也是人多得等，烦得很，目前约30刀一晚吧。
 3. 多找零钱用于付小费，这是常识，但是咱人这么多也得调节下小费比例，啥都给小费也是老大难还得翻攻略。
+
+风景如画
+-----------
+犯懒，随便贴几张了，有空再独立来写游记
+
+恐龙湾
+![Hanauma Bay](https://raw.githubusercontent.com/ycj28c/lifeblog/master/images/201708240000/IMG_0054.jpg)
+
+钻石山和檀香山市景
+![Diamond MT](https://raw.githubusercontent.com/ycj28c/lifeblog/master/images/201708240000/IMG_0068.jpg)
+
+拉海纳大榕树
+![Big Banyan](https://raw.githubusercontent.com/ycj28c/lifeblog/master/images/201708240000/IMG_0081.jpg)
+
+哈雷阿卡拉地貌
+![Haleakala](https://raw.githubusercontent.com/ycj28c/lifeblog/master/images/201708240000/IMG_0137.jpg)
+
+正宗夏威夷本地美食
+![Local Food](https://raw.githubusercontent.com/ycj28c/lifeblog/master/images/201708240000/IMG_0063.JPG)
+
+茂宜绝美海景和夕阳西下
+![Jing Yao](https://raw.githubusercontent.com/ycj28c/lifeblog/master/images/201708240000/IMG_0038.JPG)
 
 ...待续
