@@ -77,6 +77,6 @@ Tips
 ![Local Food](https://raw.githubusercontent.com/ycj28c/lifeblog/master/images/201708240000/IMG_0063.JPG)
 
 茂宜绝美海景和夕阳西下
-![Jing Yao](https://raw.githubusercontent.com/ycj28c/lifeblog/master/images/201708240000/IMG_0038.JPG)
+![Jing Yao](https://raw.githubusercontent.com/ycj28c/lifeblog/master/images/201708240000/IMG_0038.jpg)
 
 ...待续
