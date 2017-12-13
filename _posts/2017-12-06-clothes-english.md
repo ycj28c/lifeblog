@@ -52,6 +52,7 @@ Pants 褲
  
 Accessories 配件
 -----------
+
 | Accessories     | 配件        | 
 |-------------|-------------|
 | tie      |      領帶| 
@@ -76,6 +77,7 @@ Accessories 配件
 
 Underwear 內衣褲
 -----------
+
 | Underwear     | 內衣褲        | 
 |-------------|-------------|
 | Underwears |     內衣褲| 
@@ -89,6 +91,7 @@ Underwear 內衣褲
 
 Parts of clothes 衣服各部位
 -----------
+
 | Parts of clothes     | 衣服各部位       | 
 |-------------|-------------|
 | collar    |       衣領| 
@@ -131,6 +134,7 @@ Parts of clothes 衣服各部位
 
 other 其他
 -----------
+
 | other    | 其他     | 
 |-------------|-------------|
 | dress up   |   裝扮、打扮(約會呦~)| 
