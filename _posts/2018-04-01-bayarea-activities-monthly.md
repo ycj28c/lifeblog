@@ -60,6 +60,8 @@ Gilory 大蒜节
 point Reyes 的便宜生蚝
 马拉松
 napa热气球
+MUSEUM免费日
+各种美食节
 
 
 不限时间
