@@ -81,6 +81,43 @@ H1B 延期，一般大家都不太在乎也不着急，因为即使批准时间�
 新公司直接h1 transfer的同时利用已批140就能拿到3年的extension？
 http://www.mitbbs.com/article_t/EB23/32507065.html
 
+加急
+-----
+https://zhuanlan.zhihu.com/p/43301583
+USCIS解释说他们继续暂停加急服务是因为这样可以加快H-1B整体的审理速度。考虑到很多H-1B延期申请已经接近240天的期限，USCIS会优先处理此类延期申请；并能够对具有时间敏感开始日期的申请作出即时回应。
+
+暂停加急服务不会影响Cap Exempt H1B (免抽签H1B) 和H1B Extension (H1B延期)申请人。这两类H1B申请者可以继续无阻的申请加急服务。
+明年2月19日才开始加急。
+
+被rfe
+-----
+没有RFE？审理更苛刻？ 今年7月中，移民局发布备忘录指出：如果申请人在第一次递交申请时缺少必要材料，或者材料不足以充分证明其申请资格，移民官可以在不发放RFE（补材料）或NOID（拒批意向通知）的情况下，直接拒绝申请的人申请。 该政策已于9月11日正式生效。
+level 1 stage的 RFE是无疑的现在
+
+https://www.mitbbs.com/article_t/Visa/31469269.html
+第一次RFE是1，发现受益人最近出境了，提供证明，2.要求一个关于详细
+的职位描述。2号收到现在这个RFE，说是发现自己LCA上指定的职位是Level 1, 而提供的职位要求有
+4年工作经验，说这个与Level 1不一致，因为后者只能不超过2年经验。
+
+H1B趋势研究
+-----------
+https://www.etouce.com/Article/2761.html
+
+行动计划
+https://www.backchina.com/news/2018/10/23/589564.html
+提高H1B门槛, 预计生效时间：2019年8月,修改专业职业（Specialty occupation）的定义，限制H1B的申请和发放，以确保将工作签证发放给“最聪明、最优秀的的外国人”。
+要求雇主向H1B持有者支付合理的工资。
+加速绿卡处理时间,预计生效时间：2019年9月。国土安全局提出，要提高永久居住登记申请或调整状态(I-485)的处理效率，减少签证倒退的可能性，去除积累的库存，并且阻止签证欺诈。另外，建议取消优先类别移民签证的申请人同时提交签证申请和I-485表格
+
+工资低于prevailing wage怎么办
+------------
+https://zhuanlan.zhihu.com/p/33689566
+https://www.1point3acres.com/bbs/thread-287662-1-1.html
+所以各位job zone 4 level 1 RFE我觉得战略应该是：保持目前的JD，说明为什么我们不给level 2，因为行业惯例等原因确实level 1很常用，此外可以说还需要人监督的，受益人现在缺乏实际的work experience，然后把之前工资的变化情况拿出来，证明我们慢慢会offer更高的价格。而且CPA这个在行业里很常见，不能算special skill，所以不能算加分点，所以不能上来就offer level 2.
+
+extension被拒案例
+-----------
+TODO
 
 140批准之后 排队日期 Priority Date(PD)就定下来了 PD
 新规定140 批了以后180之后公司不能revoke 140. 但是其实一般公司很少有revoke
@@ -89,6 +126,10 @@ http://www.mitbbs.com/article_t/EB23/32507065.html
 140 approved < 180天, 如果uscis没有revoke(除非什么欺诈的原因) PD 保留， 如果公司不withdraw 6年h1b可以extend
 17年改革前：pd保留，I-140在180天内可能被雇主revoke，180天以上雇主不能revoke.
 17年改革后：pd保留，I-140在180天内也不能被雇主revoke（除非有uscis认为的造假）.
+
+extension流程
+-------------
+填写H1b extension，填写I-129
 
 再说一遍，PD是不是当前只跟你递485的事情有关系。H1B延期或transfer跟140批没批
 有关，如果你以前有批了的140， 你就可以3年一延，直到你485有结果。
@@ -148,6 +189,29 @@ http://www.moonbbs.com/thread-520785-1-1.html
 从2017年起，一项新的规定为某些丧失非移民身份（包括H-1B）的外籍劳工提供了最多60天的宽限期，以便让他们找到新的工作延长合法身份。
 
 h1b期间换title
+------------
+https://www.1point3acres.com/bbs/thread-332446-1-1.html
+
+你公司内部的 title 无所谓的，移民局根本不管，想什么 title 都行。重要的是你 extension 的时候要提交 LCA，那上面的 title 才重要。
+1. 要不要现在就 amendment 这个要问律师的意见了。个人觉得既然 wage 不够，为什么要给自己找麻烦呢。还不如等要 extension 的时候再说。
+2. 这个个人觉得没有必要一致。公司内部的 title 随便的，想什么时候改分分钟就改了，没有什么法律效力。重要的是 LCA 上的 title，在 file LCA 时要填写 occupation code，那个 code 决定了你的 title 和 prevailing wage。
+只要不影响每个wage level的min，就不用再file。
+
+同时extension和transfer
+------
+
+同时extension和办amendment
+------------------
+https://www.1point3acres.com/bbs/thread-363459-1-1.html
+
+查询职位code以及salary还是wage level
+-------
+查公司给的职位信息
+http://www.myvisajobs.com
+查劳工部工资标准
+http://www.flcdatacenter.com
+SDE通常是15-1132
+http://www.flcdatacenter.com/OesQuickResults.aspx?code=15-1132&area=41884&year=19&source=1
 
 常见问题
 --------
