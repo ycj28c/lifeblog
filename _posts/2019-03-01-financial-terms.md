@@ -7,7 +7,6 @@ tag: create-blog
 
 本篇主要记录常用的金融英文概念名词的中文解释，方便理解和查询，持续更新ing
 
-# 基本概念
 
 ## Common Terms 常见概念
 
@@ -322,4 +321,3 @@ Management Information Circular. Canadian proxy filing.
 表格内容约等于10-K，适用于foreign private issuers，一年一file。40-F适用于在SEC注册的加拿大公司，而20-F适用于其他在SEC注册的非美国非加拿大公司。这些报表可以是在GAAP下编制的，也可以是在IFRS（International Financial Reporting Standards）下编制的，但如果既不是GAAP又不是IFRS，例如中国准则，那就必须调整报表了（reconciliation）。
 
 
-# 引用
