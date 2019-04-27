@@ -62,14 +62,17 @@ point Reyes 的便宜生蚝
 napa热气球
 MUSEUM免费日
 各种美食节
+333 Escuela ave，mountain view
 
 
 不限时间
 --------
 各种演唱会，相声表演，国内明星以及名人比如马云演讲等等，看某网
 游泳，攀岩
-电影
+电影，比如nework的dolby影院
 射击打靶
+各种hiking，公园
+看球赛，篮球棒球橄榄球
 
 引用
 ----
@@ -77,4 +80,3 @@ MUSEUM免费日
 [春天花会开｜加州赏花攻略](https://www.thechihuo.com/article/california-spring-flower-blooming-guide)
 [湾区各月出游指南](https://www.mitbbs.com/article_t/SanFrancisco/32458813.html)
 [Go fishing！超详细旧金山湾区钓鱼圣地推荐 (附加州钓鱼证攻略)](https://freewechat.com/a/MzAxMjI2MjI2Ng==/2247486313/1?raw)
-
