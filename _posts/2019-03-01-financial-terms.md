@@ -78,6 +78,10 @@ shares outstanding「在外流通股數」（Shares outstanding）outstanding是
 股东总回报的计算公式:  
 &#8195;（期末股票价格 - 期初股票价格 + 股息） / 期初股票价格 = 股东总回报（TSR）  
 
+### Cumulative TSR   
+年化TSR受益:  
+means ((1*(1 + TSR Year 1)*(1 + TSR Year 2)*(1 + TSR Year 3)) - 1.
+
 ### Dividend  
 股利。注： 股息不仅包括支付给股东的正常股息，还包括支付给股东的现金、特殊形式的或一次性的股息，以及股票回购。通过TSR可以对行业内不同的公司进行比较，或者与行业标杆进行比较，而不必担心企业规模之间的差别， 因为TSR是一个百分比值。
 
@@ -97,13 +101,13 @@ shares outstanding「在外流通股數」（Shares outstanding）outstanding是
 
 ### Multi-Year Cash IP
 
-### stock
+### Stock
 是股票，也就是權益證券，如普通股和特別股‧ 
 
-### bond
+### Bond
 是債券，是債權證券，可定期領固定的利息，如公債(政府發行的債券)、公司債、金融債券等‧ 
 
-### security
+### Security
 是證券，包括stock、bond、reits、abs(asset-backed security)
 
 ### EDGAR (Electronic Data Gathering, Analysis and Retrieval):
