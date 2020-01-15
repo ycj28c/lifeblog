@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 關於PE的學習
+title: 金融知識點學習
 category: 生活百科
 tag: create-blog
 ---
