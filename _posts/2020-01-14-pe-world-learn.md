@@ -30,7 +30,7 @@ Silverline is a Salesforce Platinum Cloud Alliance Partner. They are focused on 
 ## 期權
 首先了解下做多和做空就是買入或者賣空股票和ETF，而如果想玩大的，在美國還能使用期權來杠桿。简单来说，期权就是一个特定时间内的一种交易选择权，由A和B两个交易方就某个资产以未来某日的某个交易价格形成的契约。
 
-這裏的計算還不是很清楚，另外還有一個正股的概念比較複雜
+這裏的計算還不是很清楚，另外還有一個正股的概念比較複雜。
 
 ## 引用
 1. [扫盲贴：PE八大家——KKR、凯雷、黑石、华平...](https://www.douban.com/group/topic/36730018/)
