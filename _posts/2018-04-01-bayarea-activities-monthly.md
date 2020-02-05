@@ -18,14 +18,13 @@ tag: create-blog
 
 3月
 ---
-各种看花，各种花花，可以看链接，推荐地方比如
+各种看花，各种花花，可以看链接，推荐地方比如：  
+各种花 - Woodside的Filoli house，尤其郁金香;  
+油菜花 - 东湾Coyote Halfill，此地各个季节不同景致，hiking难度低景色佳，适合老人儿童，大爱;  
+樱花 - Japanese Tea Garden;  
 
-各种花 - Woodside的Filoli house，尤其郁金香
-油菜花 - 东湾coyote hill，此地各个季节不同景致，hiking难度低景色佳，适合老人儿童，大爱
-樱花 - Japanese Tea Garden
-
-日本樱花节 - 没去过，不过可以看看只开1星期的樱花树
-Easter Day，耶稣复活日，对于非基督徒主要是Egg Hunter捡彩蛋活动，尤其适合小孩，也有大人可以参与的，每年时间约3-4月，具体可以Google
+日本樱花节 - 没去过，不过可以看看只开1星期的樱花树  
+Easter Day，耶稣复活日，对于非基督徒主要是Egg   Hunter捡彩蛋活动，尤其适合小孩，也有大人可以参与的，每年时间约3-4月，具体可以Google  
 
 赏鲸
 
@@ -33,6 +32,10 @@ Easter Day，耶稣复活日，对于非基督徒主要是Egg Hunter捡彩蛋活
 ---
 采摘
 
+7月
+---
+Gilory 大蒜节，大概每年7月24-26日  
+捞象牙蚌，具体时间要看当地潮汐表  
 
 8月
 ---
@@ -44,39 +47,37 @@ Easter Day，耶稣复活日，对于非基督徒主要是Egg Hunter捡彩蛋活
 
 10月
 ----
-half moon bay 南瓜节
+南瓜节（Half Moon Bay啊，南湾）
+
+11月
+----
+钓螃蟹，通常捕蟹季节在11月3日开始
 
 12月
 ----
-san carlos看用心的圣诞彩灯一条街
-
-待整理
------
-Gilory 大蒜节
-钓鱼，每年有免费的无证钓鱼日
-钓螃蟹
-捞象牙蚌
-捞鲍鱼 - 没试过
-point Reyes 的便宜生蚝
-马拉松
-napa热气球
-MUSEUM免费日
-各种美食节
-333 Escuela ave，mountain view
-
+San Carlos看用心的圣诞彩灯一条街(3200 Thompson Ave, Alameda, CA 94501)
 
 不限时间
 --------
-各种演唱会，相声表演，国内明星以及名人比如马云演讲等等，看某网
-游泳，攀岩
-电影，比如nework的dolby影院
-射击打靶
-各种hiking，公园
-看球赛，篮球棒球橄榄球
+钓鱼，每年有免费的无证钓鱼日  
+各种演唱会，相声表演，国内明星以及名人比如马云演讲等等，看某网  
+游泳，攀岩  
+电影，比如nework的dolby影院，南湾不少华语影院    
+射击打靶  
+各种hiking，公园  
+看球赛，篮球棒球橄榄球  
+私人飞机，高空跳  
+Napa热气球，逛酒庄      
+马拉松  
+各种美国奇葩活动，裸跑之类（具体看湾区每周活动） 
+捞鲍鱼 - 没试过
+Point Reyes 的便宜生蚝     
+MUSEUM免费日  
+各种美食节  
 
 引用
 ----
 [千山万水，我们和娃。带娃逛遍湾区周边](http://www.huaren.us/dispbbs.asp?boardid=333&Id=1452906)
-[春天花会开｜加州赏花攻略](https://www.thechihuo.com/article/california-spring-flower-blooming-guide)
-[湾区各月出游指南](https://www.mitbbs.com/article_t/SanFrancisco/32458813.html)
-[Go fishing！超详细旧金山湾区钓鱼圣地推荐 (附加州钓鱼证攻略)](https://freewechat.com/a/MzAxMjI2MjI2Ng==/2247486313/1?raw)
+[春天花会开｜加州赏花攻略](https://www.thechihuo.com/article/california-spring-flower-blooming-guide)  
+[湾区各月出游指南](https://www.mitbbs.com/article_t/SanFrancisco/32458813.html)  
+[Go fishing！超详细旧金山湾区钓鱼圣地推荐 (附加州钓鱼证攻略)](https://freewechat.com/a/MzAxMjI2MjI2Ng==/2247486313/1?raw)  
