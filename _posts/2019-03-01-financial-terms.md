@@ -299,10 +299,20 @@ Filed quarterly. It contains similar information to the annual form 10-K, howeve
 
 ### Form 4
 Form 3,4 and 5这些表格由directors,officers和持股10%以上人员填列。  
-3 首次持股声明  
-4 持股变动声明  
-5 持股变动年度报告  
+3 首次持股声明。记录股票上市时（即IPO）Insiders持股的（原始）状况。  
+4 持股变动声明。记录Insiders的持股发生变化时（买或买）的状况，包括交易股数、金额、人员名字、企业内担任的职务和交易日期。需要在交易后的2个工作日内向SEC申报。     
+5 持股变动年度报告。
+是Form 4的年度总结，记录整年内发生过交易的全部Insiders的详细信息。    
 Statement of changes to an individuals equity holdings (insider transactions).
+
+(Form 4最为有用，也最常见)[http://bbs.creaders.net/stock/bbsviewer.php?trd_id=678958&language=big5]。 Form 4中，既包含“买”的信息，也包括“卖”的信息。以“买”的信息最为有用，特别是如果几个甚至10几个Insiders（内部人士）都购买了自己企业的股票。这里要注意：他们各人买的股票数目要不壹样（原因在后面叙述），最好也不都是集中在某壹天买的（原因也在后面叙述），那就表明这个股票很有上升的潜力。如果你对这个企业又有所了解，化大钱下去买！原因很简单，“只有买错，没有卖错”。目前许多企业都利用企业股票作为报酬的壹部分，Insiders大都手中已经拥有了股票；如果没有巨大的利润，这些Insiders是不会用自己的血汗钱去买自己企业股票的。不过这里有陷阱。有些企业利用外部人士聚焦于Insiders信息之机，企业发放贷款为Insiders购买股票来“装饰门面”。
+
+戳穿这种把戏，看Insiders购买股票的股数和金额。如果几个Insiders购买股票的股数和金额惊人地壹致，甚至不是成“手”（俗称100股为1手，这里指不是100股的整倍数）地买，而全都是零散的股数，那很可能有猫腻在里面。其原因是为了公平起见，企业对每个Insider都贷出同样的金额，当然就只能买到壹样数目的散股了。想想，每个Insiders的经济情况不可能完全相同，不太可能购买同样股数的股票。
+
+二看Insiders购买股票的日期。如果某个企业的许多Insiders（比如10人以上）购买股票的日期在同壹天，那也可能是在做show。买股票是要花真金白银的。这么多人不大可能同时在某壹天能拿出钱来买股票。比较现实的情况是，壹些人在这几天购买，另壹些人在其他几天购买；可能比较有钱的Insiders会多次购买总数很多的股票，而有些Insiders则仅1次购买少量的数目
+
+综合以上这两“看”，可以基本上排除“装饰门面”的Insiders的“噪音”。如果对这个企业实在不了解，那还是以不买为好。
+我自己的经验，真正的Insiders购买股票信息，壹般在6个月到1年过后左右发生作用。用Insiders购买股票的信息来选股，几乎是百发百中，所以称为“juicy information”。
 
 ### S-1（招股书）
 Filing used by public companies to register their securities with the U.S. Securities and Exchange Commission. The S-1 contains the basic business and financial information on an issuer with respect to a specific securities offering.
