@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 金融知识点学习
+title: 金融PE-VC常识
 category: 生活百科
 tag: create-blog
 ---
 
-本篇文章主要是要学习几个金融领域知识点。包括下列关键词: KKR， Blackrock，PE firm，Salesforce，Silverline，期权，VC，Angel Investment
+本篇文章主要是要学习几个金融领域知识点。包括下列关键词: KKR， Blackrock，PE firm，VC，Angel Investment
 
 ## PE
 私募股权投资基金（PE），PE是现在全球并购市场的主角。PE八大家——KKR、凯雷、黑石、华平、橡树、3i、德州太平洋TPG、阿波罗。  
@@ -20,18 +20,6 @@ KKR收购的特点是高杠杠，以小博大，是基于管理层的收购（MB
 
 ## Blackrock
 通常我们熟悉的PE是黑石（blackstone Group），Blackrock中文翻作“贝莱德”（黑岩），是全球数一数二的投资管理公司。是从黑石独立出来的，专注资产管理，可以简单的看成基金公司。它管理者超过日本GDP总量的资金，它甚至也可以是一个科技公司，其阿拉丁系统也占了6%营收（Aladdin风险管理系统）。在一个投资管理公司最重要的角色是Portfolio manager(PM)。
-
-## Salesforce
-最初是做Saas，主要收入来源就是客户关係管理（CRM）系统，就这样创造了50亿的营收，实在不可思议。可能成功是因爲用户租赁软件系统的成功，而且sales各大小公司都有用，另外salesforce一直在完善产品生态系统（比如挖掘潜在客户，客户转化，销售机会追踪，售后业务流程），在技术上也可以给予平台开发，可塑性很强。因爲头部企业，所以占据市场，就像dropbox之于网盘，Evernote之于网络笔记。
-
-## Silverline
-Silverline is a Salesforce Platinum Cloud Alliance Partner. They are focused on developing powerful solutions, deployed on the Salesforce Platform, and robust third party apps.  
-所以silverline公司就是专业给salesforce开发App的公司，爲什么提到是因爲自己公司要参与的salesforce的app -- backbone和之有关。
-
-## 期权
-首先了解下做多和做空就是买入或者卖空股票和ETF，而如果想玩大的，在美国还能使用期权来杠杆。简单来说，期权就是一个特定时间内的一种交易选择权，由A和B两个交易方就某个资产以未来某日的某个交易价格形成的契约。
-
-这里的计算还不是很清楚，另外还有一个正股的概念比较複杂。
 
 ## VC
 风险投资(Venture Capital，VC) ，五个阶段的种子期、初创期、成长期、扩张期、成熟期无不涉及到较高的风险，具体表现有项目的筛选、尽职调查、后期监控、知识产权、选择技术、公共政策、信息高度不对称、道德品质、管理团队、商业伙伴、财务监管、环境、税收、政治、沟通平台等。在西方国家，据不完全统计，Venture Capitalists(风险投资家)每投资10个项目，只有3个是成功的，而7个是失败的。正是因为这样，在风险投资界才会奉行“不要将鸡蛋放在一个篮子里”的分散组合投资原则。  
