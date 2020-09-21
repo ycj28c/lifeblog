@@ -183,18 +183,10 @@ This table discloses exact equity awards. In most cases, all information we trac
 不知道  
 This table discloses all equity awards that an executive still has not sold or exercised at the end of the fiscal year.
 
-### TCR (Total Compensation Report)
-Equilar的旗艦產品，允許用戶過濾下載和查看收入數據，下載后的excel有脚本嵌入功能  
-Equilar's flagship product. Allows users to download our compensation data using filters. Downloads contain Excel macros to beautify data into presentable tables and graphs.
-
-### P4P (Pay For Performance)
-看看相對exec的收入，他們的performance怎麽樣  
-Seeing how well exec pay aligns with company performance. Equilar currently offers 3 tools that automatically analyze data for users using 3 different models (ISS P4P, Glass Lewis P4P, Equilar P4P).
-
 ## Market Indices
 股價指數（或稱股市指數、股票指數）包含多種股票，是反映市场上組成股票價值的一個數據。它通常被用於展現組成股票的共通特性，例如在同一個证券交易所交易，屬於同一個产业，或有相同的市值。許多指數是由報章或財經期刊編製作為投資組合（例如共同基金）績效評估的基準點。  
 Market Indices are lists of public companies that are represent a substantial portion of the stock market. Subsets of these indices are sometimes used for filtering purposes (e.g. Russell 1000, S&P 100).  
-Equilar typically captures information for companies in these indices since they are most commonly benchmarked to. Typically, these lists are based off of market cap. These lists are updated annually, and each year we have to update our own data to reflect the market indices' changes.
+We typically captures information for companies in these indices since they are most commonly benchmarked to. Typically, these lists are based off of market cap. These lists are updated annually, and each year we have to update our own data to reflect the market indices' changes.
 
 ### R3K
 罗素指数是由Frank Russell公司创立，由华盛顿州的Frank Russell所发行的市场资本总额加权平均数，为小企业股价表现最佳的衡量工具之一。是美国市场被广泛关注的跟踪大型股和小型股的指数，罗素以美国市场为原始基准，它的成分股必须是美国公司。罗素宣布，他们将把股票指数家族扩张到超过300支指数，成分股票数量1万100支左右，覆盖全球63个国家和22个地区。  
