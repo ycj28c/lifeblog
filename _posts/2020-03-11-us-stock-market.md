@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 美股常识
-category: 生活百科
+category: 金融概念
 tag: create-blog
 ---
 
