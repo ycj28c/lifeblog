@@ -50,7 +50,8 @@ We define free cash flow as net cash flows from operating activities less capita
 可以方便的看到重要的指标比如EPS，Operation Income，Cash on hand，Cash flow等等。
 
 另外上市公司是有SEC记录的，所有的E级别的交易是会公开的[SEC](https://www.sec.gov/edgar/browse/?CIK=0001184237)。  
-也可以从中发现一些情况。
+也可以从中发现一些情况。  
+CNN的全体ELT版本：[CNN Business](https://money.cnn.com/quote/shareholders/shareholders.html?symb=UBER)
 
 ## 大萧条下怎么生存
 对于独角兽，或者之前高速发展时期的用烧钱来换增长的策略。在经济大萧条的情况下行不通。  
