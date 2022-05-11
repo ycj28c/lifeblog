@@ -54,7 +54,7 @@ We define free cash flow as net cash flows from operating activities less capita
 
 ## 大萧条下怎么生存
 对于独角兽，或者之前高速发展时期的用烧钱来换增长的策略。在经济大萧条的情况下行不通。  
-因为这个时候大家都缺钱，大萧条下投资者不喜欢烧钱的行为，越稳定越好，才能成为基本的避风港。  
+因为这个时候大家都缺钱，大萧条下投资者不喜欢烧钱的行为，越稳定越好，才能成为资本的避风港。  
 Startups with high growth & moderate burn will get funded through the downturn.  
 Startups with moderate growth & high burn will not get funded through the downturn.  
 
