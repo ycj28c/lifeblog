@@ -20,7 +20,7 @@ We define free cash flow as net cash flows from operating activities less capita
 ## 自由现金流的理解
 自由现金流可以理解成一家公司可以赚到的可以给股东自由支配的钱。这个意味着公司是赚钱了（当然还有Operating Income指标）。  
 
-**Free cash flow**是正的表示公司的确在赚钱/攒钱。是比较纯粹的现金流入和流出。  
+**Free Cash Flow**（自由现金流）是正的表示公司的确在赚钱/攒钱。是比较纯粹的现金流入和流出。  
 **Operating Activities**（运营现金流动）就是一些运营收支，类似利润。除去收入，支出上人力应该是主要部分，福利啥的也需要收紧，比如股票激励。  
 **Capital Expenditures**（资本支出）：现金流量表 - 投资活动产生的现金流量 - 购建固定资产、无形资产和其他长期资产所支付的现金。我理解是包括买资产和支付贷款之类的支出。对于软件公司来说就是投资开发app的feature开销吧。
 
